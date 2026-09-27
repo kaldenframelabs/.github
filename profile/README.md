@@ -27,6 +27,8 @@ The [Release Boundary Review](https://kaldenframelabs.com/services/release-bound
 
 Delivery is within five business days after written scope acceptance, complete intake, and payment confirmation. Scope is confirmed by email before payment. The review requires no credentials or private-repository access and is not implementation, penetration testing, security certification, or compliance attestation.
 
+[Check the fixed-scope fit in your browser →](https://kaldenframelabs.com/services/release-boundary-review/fit/)
+
 [Inspect a synthetic report sample →](https://kaldenframelabs.com/services/release-boundary-review/sample/)
 
 [Review the complete scope and request the service →](https://kaldenframelabs.com/services/release-boundary-review/)
