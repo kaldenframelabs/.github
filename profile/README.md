@@ -14,6 +14,21 @@ KaldenFrame Labs builds small public utilities around decisions that are easy to
 
 The products are independent. They can be adopted separately or sequenced deliberately, but they do not form an automatic pipeline and do not combine into universal proof. The [workflow guide](https://kaldenframelabs.com/products/workflow/) shows the handoffs and the boundary between them.
 
+## When the repository needs a tailored review
+
+The public utilities expose reusable decision boundaries. They do not diagnose how those boundaries interact inside a specific repository.
+
+The [Release Boundary Review](https://kaldenframelabs.com/services/release-boundary-review/) is a fixed-scope **$450 USD** engagement for one public GitHub repository and one named release path. It delivers:
+
+- a repository-specific release-decision map;
+- evidence, artifact-identity, and attempt-boundary gap analysis;
+- a prioritized implementation roadmap; and
+- one consolidated follow-up email.
+
+Delivery is within five business days after written scope acceptance, complete intake, and payment confirmation. Scope is confirmed by email before payment. The review requires no credentials or private-repository access and is not implementation, penetration testing, security certification, or compliance attestation.
+
+[Inspect the complete scope and request the review →](https://kaldenframelabs.com/services/release-boundary-review/)
+
 ## What is inspectable
 
 - Public MIT-licensed source, tests, contracts, and neutral examples.
